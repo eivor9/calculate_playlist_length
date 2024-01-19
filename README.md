@@ -9,7 +9,7 @@ Steps:
 4. Expand highlighted tab (should be <div id="contents" class="style-scope ytmusic-section-list-renderer">...</div> )
 5. After expandidng, highlight the line immediately undernearth it by clicking it.
 6. after it's highlighted right click and press Copy > HTML.
-7. From here you can copy this in between the backticks (slanted single quotes) of const SONG.
+7. From here you can copy this inbetween the backticks (slanted single quotes) of const SONGS on line 2 and enter your playlist's name on line 1.
 8. Run and enjoy the info!
 
 
